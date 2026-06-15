@@ -1,0 +1,33 @@
+{
+    "total_revenue": 46606,
+    "top_customer": {
+        "Beatriz": {
+            "Quantity": 3,
+            "Revenue": 5900
+        }
+    },
+    "top_product_by_revenue": {
+        "Laptop": {
+            "Quantity": 7,
+            "Revenue": 24500
+        }
+    },
+    "top_product_by_quantity": {
+        "Pen": {
+            "Quantity": 130,
+            "Revenue": 390
+        }
+    },
+    "top_category_by_revenue": {
+        "Electronics": {
+            "Quantity": 25,
+            "Revenue": 34630
+        }
+    },
+    "top_category_by_quantity": {
+        "Office": {
+            "Quantity": 186,
+            "Revenue": 1062
+        }
+    }
+}
