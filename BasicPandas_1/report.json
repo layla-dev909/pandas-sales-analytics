@@ -1,9 +1,15 @@
 {
     "total_revenue": 46606,
-    "top_customer": {
+    "top_customer_by_revenue": {
         "Beatriz": {
             "Quantity": 3,
             "Revenue": 5900
+        }
+    },
+    "top_customer_by_quantity": {
+        "Larissa": {
+            "Quantity": 32,
+            "Revenue": 4790
         }
     },
     "top_product_by_revenue": {
